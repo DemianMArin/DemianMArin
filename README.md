@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 📏 I’m currently on a research internship in UIC, working on measuring the efficiency of AI models when teaching.
+ I'm currently doing my masters in electrical engineering/computer engineering at NYU. I'm focusing on digital/analog/rf circuit design.
